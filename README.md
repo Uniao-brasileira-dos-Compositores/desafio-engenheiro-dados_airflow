@@ -129,7 +129,8 @@ Acesse a interface web do Airflow em [http://localhost:8080](http://localhost:80
 
 ## Arquivo CSV de Exemplo (Alunos de uma Escola Primária)
 
-- Utilize o arquivo `alunos.csv` com dados fictícios representando alunos de uma escola primária.
+- Utilize o arquivo [alunos.csv](https://github.com/Uniao-brasileira-dos-Compositores/desafio-engenheiro-dados_airflow/blob/main/aluno.csv) com os dados fictícios representando alunos de uma escola primária. 
+
 - O arquivo deve conter campos como:
 
   - Nome
